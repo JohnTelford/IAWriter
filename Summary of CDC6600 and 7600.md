@@ -1,7 +1,7 @@
 
 # Summary of CDC6600 and 7600
 
-[Summary of CDC6600 and 7600](https://www.perplexity.ai/search/ccf20c62-4c1b-41dc-b5e8-5663262bba0c)
+This web is a start of [Summary of CDC6600 and 7600](https://www.perplexity.ai/search/ccf20c62-4c1b-41dc-b5e8-5663262bba0c)
 
 The CDC 6600 and CDC 7600 were early supercomputers designed by Seymour Cray that defined high‑performance computing in the 1960s and early 1970s, with the 7600 roughly quintuple the performance of the 6600 in many workloads. Both used 60‑bit words and a central scientific processor supported by multiple peripheral processors, but the 7600 added much higher clock speed and deeper pipelining.​
 
